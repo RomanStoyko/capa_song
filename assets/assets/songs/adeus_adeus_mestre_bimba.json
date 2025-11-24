@@ -1,0 +1,75 @@
+{
+  "id": "adeus_adeus_mestre_bimba",
+  "title": "Adeus, Adeus, Mestre Bimba",
+  "artist": "Traditional Capoeira",
+  "coverImage": "assets/images/capoeira.jpg",
+  "youtubeId": "x_SEBqTtMM",
+  "lines": [
+    {
+      "original": "Adeus, adeus",
+      "pronunciation": "Адеуш, адеуш",
+      "translation": "Прощавай, прощавай,",
+      "type": "soloist"
+    },
+    {
+      "original": "Adeus, adeus, eu vou m'embora",
+      "pronunciation": "Адеуш, адеуш, еу воу м'ембора",
+      "translation": "Прощавай, прощавай, я йду геть (їду)",
+      "type": "soloist"
+    },
+    {
+      "original": "Adeus, adeus, eu vou m'embora",
+      "pronunciation": "Адеуш, адеуш, еу воу м'ембора",
+      "translation": "Прощавай, прощавай, я йду геть",
+      "type": "chorus"
+    },
+    {
+      "original": "A Capoeira me chamou",
+      "pronunciation": "А Капуейра ме шамоу",
+      "translation": "Капоейра мене покликала",
+      "type": "soloist"
+    },
+    {
+      "original": "Adeus, adeus, eu vou m'embora",
+      "pronunciation": "Адеуш, адеуш, еу воу м'ембора",
+      "translation": "Прощавай, прощавай, я йду геть",
+      "type": "chorus"
+    },
+    {
+      "original": "Morreu Mestre Bimba",
+      "pronunciation": "Морреу Мештре Бімба",
+      "translation": "Помер Майстер Бімба",
+      "type": "soloist"
+    },
+    {
+      "original": "Adeus, adeus, eu vou m'embora",
+      "pronunciation": "Адеуш, адеуш, еу воу м'ембора",
+      "translation": "Прощавай, прощавай, я йду геть",
+      "type": "chorus"
+    },
+    {
+      "original": "Lá na terra de Goiana",
+      "pronunciation": "Ла на терра де Гояна",
+      "translation": "Там, на землі Гояни (де він помер)",
+      "type": "soloist"
+    },
+    {
+      "original": "Adeus, adeus, eu vou m'embora",
+      "pronunciation": "Адеуш, адеуш, еу воу м'ембора",
+      "translation": "Прощавай, прощавай, я йду геть",
+      "type": "chorus"
+    },
+    {
+      "original": "Longe de Salvador",
+      "pronunciation": "Лонже де Салвадор",
+      "translation": "Далеко від Сальвадору (рідне місто)",
+      "type": "soloist"
+    },
+    {
+      "original": "Adeus, adeus, eu vou m'embora",
+      "pronunciation": "Адеуш, адеуш, еу воу м'ембора",
+      "translation": "Прощавай, прощавай, я йду геть",
+      "type": "chorus"
+    }
+  ]
+}

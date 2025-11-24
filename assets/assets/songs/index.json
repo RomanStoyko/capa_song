@@ -1,0 +1,44 @@
+[
+  {
+    "id": "paranaue",
+    "title": "Paranaue",
+    "artist": "Traditional Capoeira",
+    "coverImage": "assets/images/capoeira.jpg",
+    "youtubeId": "J-yptQxdHW8"
+  },
+  {
+    "id": "oi_sim_sim_sim",
+    "title": "Oi Sim Sim Sim",
+    "artist": "Traditional Capoeira",
+    "coverImage": "assets/images/Oi Sim Sim Sim.jpg",
+    "youtubeId": "B06bR4_ZnSI"
+  },
+  {
+    "id": "a_hora_e_essa",
+    "title": "A Hora É Essa",
+    "artist": "Traditional Capoeira",
+    "coverImage": "assets/images/a_hora_e_essa.jpg",
+    "youtubeId": "ABw1FDwl8JU"
+  },
+  {
+    "id": "a_palma_de_bimba",
+    "title": "A Palma De Bimba",
+    "artist": "Traditional Capoeira (Mestre Itapoan)",
+    "coverImage": "assets/images/capoeira.jpg",
+    "youtubeId": "voMkLe-ZV_U"
+  },
+  {
+    "id": "eu_ja_dei_minha_volta_no_mundo",
+    "title": "Eu Já Dei Minha Volta No Mundo",
+    "artist": "Traditional Capoeira",
+    "coverImage": "assets/images/capoeira.jpg",
+    "youtubeId": "H4i27Q4xK6g"
+  },
+  {
+    "id": "adeus_adeus_mestre_bimba",
+    "title": "Adeus, Adeus, Mestre Bimba",
+    "artist": "Traditional Capoeira",
+    "coverImage": "assets/images/capoeira.jpg",
+    "youtubeId": "x_SEBqTtMM"
+  }
+]

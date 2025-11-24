@@ -1,0 +1,75 @@
+{
+  "id": "eu_ja_dei_minha_volta_no_mundo",
+  "title": "Eu Já Dei Minha Volta No Mundo",
+  "artist": "Traditional Capoeira",
+  "coverImage": "assets/images/capoeira.jpg",
+  "youtubeId": "H4i27Q4xK6g",
+  "lines": [
+    {
+      "original": "Eu já dei minha volta no mundo",
+      "pronunciation": "Еу жа дей міня волта но мунду",
+      "translation": "Я вже обійшов світ,",
+      "type": "soloist"
+    },
+    {
+      "original": "Voltei pra Bahia, meu Deus",
+      "pronunciation": "Волтей пра Баія, меу Деуш",
+      "translation": "Повернувся до Баїї, о мій Боже.",
+      "type": "soloist"
+    },
+    {
+      "original": "É pra nunca mais voltar",
+      "pronunciation": "Е пра нунка майш волтар",
+      "translation": "Це для того, щоб ніколи більше не повертатися (з дороги).",
+      "type": "soloist"
+    },
+    {
+      "original": "Eu já dei minha volta no mundo",
+      "pronunciation": "Еу жа дей міня волта но мунду",
+      "translation": "Я вже обійшов світ,",
+      "type": "chorus"
+    },
+    {
+      "original": "Voltei pra Bahia, meu Deus",
+      "pronunciation": "Волтей пра Баія, меу Деуш",
+      "translation": "Повернувся до Баїї, о мій Боже.",
+      "type": "chorus"
+    },
+    {
+      "original": "Eu fui dar a volta no mundo",
+      "pronunciation": "Еу фуй дар а волта но мунду",
+      "translation": "Я пішов обійти світ,",
+      "type": "soloist"
+    },
+    {
+      "original": "Fui me despedir de alguém",
+      "pronunciation": "Фуй ме дешпедір де алгем",
+      "translation": "Пішов попрощатися з кимось.",
+      "type": "soloist"
+    },
+    {
+      "original": "Não volto, não volto mais",
+      "pronunciation": "Нау волту, нау волту майш",
+      "translation": "Я не повернуся, не повернуся більше,",
+      "type": "soloist"
+    },
+    {
+      "original": "Só volto no ano que vem",
+      "pronunciation": "Со волту но ану ке вем",
+      "translation": "Повернуся лише наступного року.",
+      "type": "soloist"
+    },
+    {
+      "original": "Eu já dei minha volta no mundo",
+      "pronunciation": "Еу жа дей міня волта но мунду",
+      "translation": "Я вже обійшов світ,",
+      "type": "chorus"
+    },
+    {
+      "original": "Voltei pra Bahia, meu Deus",
+      "pronunciation": "Волтей пра Баія, меу Деуш",
+      "translation": "Повернувся до Баїї, о мій Боже.",
+      "type": "chorus"
+    }
+  ]
+}

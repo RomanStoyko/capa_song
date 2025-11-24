@@ -1,0 +1,189 @@
+{
+  "id": "a_palma_de_bimba",
+  "title": "A Palma De Bimba",
+  "artist": "Traditional Capoeira (Mestre Itapoan)",
+  "coverImage": "assets/images/capoeira.jpg",
+  "youtubeId": "voMkLe-ZV_U",
+  "lines": [
+    {
+      "original": "A palma estava errada",
+      "pronunciation": "А палма ештава еррада",
+      "translation": "Плескання в долоні було неправильним,",
+      "type": "soloist"
+    },
+    {
+      "original": "Bimba parou outra vez",
+      "pronunciation": "Бімба пароу оутра вейш",
+      "translation": "Бімба знову зупинився.",
+      "type": "soloist"
+    },
+    {
+      "original": "Bata esta palma direito",
+      "pronunciation": "Бата ешта палма дірейту",
+      "translation": "Плескайте в долоні правильно:",
+      "type": "soloist"
+    },
+    {
+      "original": "A palma de Bimba é um, dois, três",
+      "pronunciation": "А палма де Бімба е ум, дойш, трейш",
+      "translation": "Плескання Бімби — це один, два, три.",
+      "type": "soloist"
+    },
+    {
+      "original": "Olha a palma de Bimba",
+      "pronunciation": "Оля а палма де Бімба",
+      "translation": "Подивіться на плескання Бімби,",
+      "type": "chorus"
+    },
+    {
+      "original": "É um, dois, três",
+      "pronunciation": "Е ум, дойш, трейш",
+      "translation": "Це один, два, три.",
+      "type": "chorus"
+    },
+    {
+      "original": "Se você é devoto de Bimba",
+      "pronunciation": "Се восе е девоту де Бімба",
+      "translation": "Якщо ви віддані Бімбі,",
+      "type": "soloist"
+    },
+    {
+      "original": "Na roda ele vai lhe ajudar",
+      "pronunciation": "На рода еле вай льє ажудар",
+      "translation": "У роді він вам допоможе.",
+      "type": "soloist"
+    },
+    {
+      "original": "Mas se não é, sai correndo",
+      "pronunciation": "Мас се нау е, сай коррендо",
+      "translation": "А якщо ні, тікайте,",
+      "type": "soloist"
+    },
+    {
+      "original": "Que a roda tá aberta, e o bicho vai pegar",
+      "pronunciation": "Ке а рода та аберта, е о бішу вай пегар",
+      "translation": "Бо рода відкрита, і тварина (гра) вас дістане.",
+      "type": "soloist"
+    },
+    {
+      "original": "Olha a palma de Bimba",
+      "pronunciation": "Оля а палма де Бімба",
+      "translation": "Подивіться на плескання Бімби,",
+      "type": "chorus"
+    },
+    {
+      "original": "É um, dois, três",
+      "pronunciation": "Е ум, дойш, трейш",
+      "translation": "Це один, два, три.",
+      "type": "chorus"
+    },
+    {
+      "original": "A quadra estava errada",
+      "pronunciation": "А куадра ештава еррада",
+      "translation": "Квадра (куплет) була неправильною,",
+      "type": "soloist"
+    },
+    {
+      "original": "Bimba parou outra vez",
+      "pronunciation": "Бімба пароу оутра вейш",
+      "translation": "Бімба знову зупинився.",
+      "type": "soloist"
+    },
+    {
+      "original": "Cante esta quadra direito",
+      "pronunciation": "Канте ешта куадра дірейту",
+      "translation": "Співайте цю квадру правильно,",
+      "type": "soloist"
+    },
+    {
+      "original": "A palma de Bimba é um, dois, três",
+      "pronunciation": "А палма де Бімба е ум, дойш, трейш",
+      "translation": "Плескання Бімби — це один, два, три.",
+      "type": "soloist"
+    },
+    {
+      "original": "Olha a palma de Bimba",
+      "pronunciation": "Оля а палма де Бімба",
+      "translation": "Подивіться на плескання Бімби,",
+      "type": "chorus"
+    },
+    {
+      "original": "É um, dois, três",
+      "pronunciation": "Е ум, дойш, трейш",
+      "translation": "Це один, два, три.",
+      "type": "chorus"
+    },
+    {
+      "original": "A Iuna estava errada",
+      "pronunciation": "А Іуна ештава еррада",
+      "translation": "Іуна (мелодія) була неправильною,",
+      "type": "soloist"
+    },
+    {
+      "original": "Bimba falou outra vez",
+      "pronunciation": "Бімба фалоу оутра вейш",
+      "translation": "Бімба знову сказав:",
+      "type": "soloist"
+    },
+    {
+      "original": "Não maltrate esta ave moleque",
+      "pronunciation": "Нау малтрате ешта аве молеке",
+      "translation": "Не ображай цю пташку (Іуну), малий,",
+      "type": "soloist"
+    },
+    {
+      "original": "E a palma de Bimba é um, dois, três",
+      "pronunciation": "Е а палма де Бімба е ум, дойш, трейш",
+      "translation": "І плескання Бімби — це один, два, три.",
+      "type": "soloist"
+    },
+    {
+      "original": "Olha a palma de Bimba",
+      "pronunciation": "Оля а палма де Бімба",
+      "translation": "Подивіться на плескання Бімби,",
+      "type": "chorus"
+    },
+    {
+      "original": "É um, dois, três",
+      "pronunciation": "Е ум, дойш, трейш",
+      "translation": "Це один, два, три.",
+      "type": "chorus"
+    },
+    {
+      "original": "A Ginga estava errada",
+      "pronunciation": "А Жінга ештава еррада",
+      "translation": "Жінга (основний рух) була неправильною,",
+      "type": "soloist"
+    },
+    {
+      "original": "Bimba parou outra vez",
+      "pronunciation": "Бімба пароу оутра вейш",
+      "translation": "Бімба знову зупинився.",
+      "type": "soloist"
+    },
+    {
+      "original": "Ô Ginga bonito moleque",
+      "pronunciation": "О Жінга боніту молеке",
+      "translation": "О, гарна Жінга, малий,",
+      "type": "soloist"
+    },
+    {
+      "original": "E a palma de Bimba é um, dois, três",
+      "pronunciation": "Е а палма де Бімба е ум, дойш, трейш",
+      "translation": "І плескання Бімби — це один, два, три.",
+      "type": "soloist"
+    },
+    {
+      "original": "Olha a palma de Bimba",
+      "pronunciation": "Оля а палма де Бімба",
+      "translation": "Подивіться на плескання Бімби,",
+      "type": "chorus"
+    },
+    {
+      "original": "É um, dois, três",
+      "pronunciation": "Е ум, дойш, трейш",
+      "translation": "Це один, два, три.",
+      "type": "chorus"
+    }
+  ]
+}

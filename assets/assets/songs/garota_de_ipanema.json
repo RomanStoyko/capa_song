@@ -1,0 +1,39 @@
+{
+  "id": "garota_de_ipanema",
+  "title": "Garota de Ipanema",
+  "artist": "Antônio Carlos Jobim",
+  "coverImage": "assets/images/garota.jpg",
+  "youtubeId": "j8VPmtyLqSY",
+  "lines": [
+    {
+      "original": "Olha que coisa mais linda",
+      "pronunciation": "Оля ке койза майс лінда",
+      "translation": "Подивись, яка краса"
+    },
+    {
+      "original": "Mais cheia de graça",
+      "pronunciation": "Майс шейя джі граса",
+      "translation": "Найбільш сповнена грації"
+    },
+    {
+      "original": "É ela menina",
+      "pronunciation": "Е ела меніна",
+      "translation": "Це вона, дівчина"
+    },
+    {
+      "original": "Que vem e que passa",
+      "pronunciation": "Ке вень і ке паса",
+      "translation": "Що йде і проходить"
+    },
+    {
+      "original": "Num doce balanço",
+      "pronunciation": "Нум досі балансу",
+      "translation": "В солодкому ритмі"
+    },
+    {
+      "original": "A caminho do mar",
+      "pronunciation": "А камінью ду мар",
+      "translation": "На шляху до моря"
+    }
+  ]
+}

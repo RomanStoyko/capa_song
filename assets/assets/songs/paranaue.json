@@ -1,0 +1,63 @@
+{
+  "id": "paranaue",
+  "title": "Paranaue",
+  "artist": "Traditional Capoeira",
+  "coverImage": "assets/images/capoeira.jpg",
+  "youtubeId": "J-yptQxdHW8",
+  "lines": [
+    {
+      "original": "Vou dizer a minha mulher",
+      "pronunciation": "Воу дізер а міня мульєр",
+      "translation": "Я скажу моїй дружині,",
+      "type": "soloist"
+    },
+    {
+      "original": "Paranauê, Paranauê, Paraná",
+      "pronunciation": "Паранауе, Паранауе, Парана",
+      "translation": "Паранауе, Паранауе, Парана",
+      "type": "soloist"
+    },
+    {
+      "original": "Paranauê, Paranauê, Paraná",
+      "pronunciation": "Паранауе, Паранауе, Парана",
+      "translation": "Паранауе, Паранауе, Парана",
+      "type": "chorus"
+    },
+    {
+      "original": "Oi, quem nunca viu, venha ver",
+      "pronunciation": "Ой, кем нунка віу, вея вер",
+      "translation": "Ой, хто ніколи не бачив, приходьте подивитися,",
+      "type": "soloist"
+    },
+    {
+      "original": "Paranauê, Paranauê, Paraná",
+      "pronunciation": "Паранауе, Паранауе, Парана",
+      "translation": "Паранауе, Паранауе, Парана",
+      "type": "chorus"
+    },
+    {
+      "original": "A Capoeira me chamou",
+      "pronunciation": "А Капуейра ме шамоу",
+      "translation": "Капоейра мене покликала,",
+      "type": "soloist"
+    },
+    {
+      "original": "Paranauê, Paranauê, Paraná",
+      "pronunciation": "Паранауе, Паранауе, Парана",
+      "translation": "Паранауе, Паранауе, Парана",
+      "type": "chorus"
+    },
+    {
+      "original": "Vamos jogar Capoeira",
+      "pronunciation": "Вамош жогар Капуейра",
+      "translation": "Давайте грати Капоейру,",
+      "type": "soloist"
+    },
+    {
+      "original": "Paranauê, Paranauê, Paraná",
+      "pronunciation": "Паранауе, Паранауе, Парана",
+      "translation": "Паранауе, Паранауе, Парана",
+      "type": "chorus"
+    }
+  ]
+}

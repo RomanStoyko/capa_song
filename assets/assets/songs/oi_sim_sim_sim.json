@@ -1,0 +1,105 @@
+{
+  "id": "oi_sim_sim_sim",
+  "title": "Oi Sim Sim Sim",
+  "artist": "Traditional Capoeira",
+  "coverImage": "assets/images/Oi Sim Sim Sim.jpg",
+  "youtubeId": "B06bR4_ZnSI",
+  "lines": [
+    {
+      "original": "Oi sim sim sim",
+      "pronunciation": "Ой сім сім сім",
+      "translation": "Ой так так так",
+      "type": "soloist"
+    },
+    {
+      "original": "Oi não não não",
+      "pronunciation": "Ой нау нау нау",
+      "translation": "Ой ні ні ні",
+      "type": "soloist"
+    },
+    {
+      "original": "Oi sim sim sim",
+      "pronunciation": "Ой сім сім сім",
+      "translation": "Ой так так так",
+      "type": "chorus"
+    },
+    {
+      "original": "Oi não não não",
+      "pronunciation": "Ой нау нау нау",
+      "translation": "Ой ні ні ні",
+      "type": "chorus"
+    },
+        {
+      "original": "Oi sim sim sim",
+      "pronunciation": "Ой сім сім сім",
+      "translation": "Ой так так так",
+      "type": "soloist"
+    },
+    {
+      "original": "Oi não não não",
+      "pronunciation": "Ой нау нау нау",
+      "translation": "Ой ні ні ні",
+      "type": "soloist"
+    },
+    {
+      "original": "Oi sim sim sim",
+      "pronunciation": "Ой сім сім сім",
+      "translation": "Ой так так так",
+      "type": "chorus"
+    },
+    {
+      "original": "Oi não não não",
+      "pronunciation": "Ой нау нау нау",
+      "translation": "Ой ні ні ні",
+      "type": "chorus"
+    },
+    {
+      "original": "Mas hoje tem, amanhã não",
+      "pronunciation": "Мас ожі тей, аманя нау",
+      "translation": "Але сьогодні є, завтра ні",
+      "type": "soloist"
+    },
+    {
+      "original": "Mas hoje tem, amanhã não",
+      "pronunciation": "Мас ожі тей, аманя нау",
+      "translation": "Але сьогодні є, завтра ні",
+      "type": "soloist"
+    },
+    {
+      "original": "Oi sim sim sim",
+      "pronunciation": "Ой сім сім сім",
+      "translation": "Ой так так так",
+      "type": "chorus"
+    },
+    {
+      "original": "Oi não não não",
+      "pronunciation": "Ой нау нау нау",
+      "translation": "Ой ні ні ні",
+      "type": "chorus"
+    },
+    {
+      "original": "Mas hoje tem, amanhã não",
+      "pronunciation": "Мас ожі тей, аманя нау",
+      "translation": "Але сьогодні є, завтра ні",
+      "type": "soloist"
+    },
+    {
+      "original": "Olha a pisada de Lampião",
+      "pronunciation": "Оля а пізада ді Лампіау",
+      "translation": "Подивись на ходу Лампіана",
+      "type": "soloist"
+    },
+    {
+      "original": "Oi sim sim sim",
+      "pronunciation": "Ой сім сім сім",
+      "translation": "Ой так так так",
+      "type": "chorus"
+    },
+    {
+      "original": "Oi não não não",
+      "pronunciation": "Ой нау нау нау",
+      "translation": "Ой ні ні ні",
+      "type": "chorus"
+    }
+  ]
+}

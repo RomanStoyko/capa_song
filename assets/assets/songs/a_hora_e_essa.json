@@ -1,0 +1,297 @@
+{
+  "id": "a_hora_e_essa",
+  "title": "A Hora É Essa",
+  "artist": "Traditional Capoeira",
+  "coverImage": "assets/images/a_hora_e_essa.jpg",
+  "youtubeId": "LKrNJupmVNM",
+  "lines": [
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час (букв. Ця година є ця)",
+      "type": "soloist"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "chorus"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "soloist"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "chorus"
+    },
+    {
+      "original": "Berimbau tocou na capoeira",
+      "pronunciation": "Берімбау токоу на капуейра",
+      "translation": "Берімбау заграв у Капоейрі",
+      "type": "soloist"
+    },
+    {
+      "original": "Berimbau tocou eu vou Jogar",
+      "pronunciation": "Берімбау токоу еу воу Жогар",
+      "translation": "Берімбау заграв, я буду грати",
+      "type": "chorus"
+    },
+    {
+      "original": "Berimbau tocou na capoeira",
+      "pronunciation": "Берімбау токоу на капуейра",
+      "translation": "Берімбау заграв у Капоейрі",
+      "type": "soloist"
+    },
+    {
+      "original": "Berimbau tocou eu vou Jogar",
+      "pronunciation": "Берімбау токоу еу воу Жогар",
+      "translation": "Берімбау заграв, я буду грати",
+      "type": "chorus"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "soloist"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "chorus"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "soloist"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "chorus"
+    },
+    {
+      "original": "Berimbau tocou na capoeira",
+      "pronunciation": "Берімбау токоу на капуейра",
+      "translation": "Берімбау заграв у Капоейрі",
+      "type": "soloist"
+    },
+    {
+      "original": "Berimbau tocou eu vou Jogar",
+      "pronunciation": "Берімбау токоу еу воу Жогар",
+      "translation": "Берімбау заграв, я буду грати",
+      "type": "chorus"
+    },
+    {
+      "original": "Berimbau tocou na capoeira",
+      "pronunciation": "Берімбау токоу на капуейра",
+      "translation": "Берімбау заграв у Капоейрі",
+      "type": "soloist"
+    },
+    {
+      "original": "Berimbau tocou eu vou Jogar",
+      "pronunciation": "Берімбау токоу еу воу Жогар",
+      "translation": "Берімбау заграв, я буду грати",
+      "type": "chorus"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "soloist"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "chorus"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "soloist"
+    },
+    {
+      "original": "A hora é essa",
+      "pronunciation": "А ора е есса",
+      "translation": "Настав цей час",
+      "type": "chorus"
+    },
+    {
+      "original": "Berimbau tocou na capoeira",
+      "pronunciation": "Берімбау токоу на капуейра",
+      "translation": "Берімбау заграв у Капоейрі",
+      "type": "soloist"
+    },
+    {
+      "original": "Berimbau tocou, tocou, tocou eu vou Jogar",
+      "pronunciation": "Берімбау токоу, токоу, токоу еу воу Жогар",
+      "translation": "Берімбау заграв, заграв, заграв, я буду грати",
+      "type": "chorus"
+    },
+    {
+      "original": "Berimbau tocou na capoeira",
+      "pronunciation": "Берімбау токоу на капуейра",
+      "translation": "Берімбау заграв у Капоейрі",
+      "type": "soloist"
+    },
+    {
+      "original": "Berimbau tocou eu vou Jogar",
+      "pronunciation": "Берімбау токоу еу воу Жогар",
+      "translation": "Берімбау заграв, я буду грати",
+      "type": "chorus"
+    },
+    {
+      "original": "Quem já foi na senzala um dia",
+      "pronunciation": "Кен жа фой на сензала ум діа",
+      "translation": "Хто був у сензалі (хатині для рабів) одного дня,",
+      "type": "soloist"
+    },
+    {
+      "original": "Sabe me dizer como é",
+      "pronunciation": "Сабе ме дізер комо е",
+      "translation": "Знає мені сказати, як це",
+      "type": "soloist"
+    },
+    {
+      "original": "Moendo cana e socando pillão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "soloist"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "chorus"
+    },
+    {
+      "original": "Negro era escravizado",
+      "pronunciation": "Негро ера ескравізадо",
+      "translation": "Негр був поневолений",
+      "type": "soloist"
+    },
+    {
+      "original": "Sob o olho do capitão",
+      "pronunciation": "Собр о ольо ду капітао",
+      "translation": "Під оком капітана (наглядача)",
+      "type": "soloist"
+    },
+    {
+      "original": "De dia trabalhava",
+      "pronunciation": "Де діа трабалява",
+      "translation": "Вдень він працював",
+      "type": "soloist"
+    },
+    {
+      "original": "Descalço com os pés no chão",
+      "pronunciation": "Дескалсо ком ос пеш но чао",
+      "translation": "Босоніж, з ногами на землі",
+      "type": "soloist"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "chorus"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "soloist"
+    },
+    {
+      "original": "Negro sofria na senzala",
+      "pronunciation": "Негро софріа на сензала",
+      "translation": "Негр страждав у сензалі",
+      "type": "soloist"
+    },
+    {
+      "original": "Na vista do coronel",
+      "pronunciation": "На віста ду коронел",
+      "translation": "На очах у полковника (землевласника)",
+      "type": "soloist"
+    },
+    {
+      "original": "Onde olhava da sacada",
+      "pronunciation": "Онде олява да сакада",
+      "translation": "Звідки він дивився з балкона,",
+      "type": "soloist"
+    },
+    {
+      "original": "Como um raio que vem do céu",
+      "pronunciation": "Комо ум райо ке вем ду сеу",
+      "translation": "Як блискавка, що йде з неба",
+      "type": "soloist"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "chorus"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "soloist"
+    },
+    {
+      "original": "Mas que vida era aquela",
+      "pronunciation": "Мас ке віда ера акела",
+      "translation": "Але що то було за життя,",
+      "type": "soloist"
+    },
+    {
+      "original": "Hoje nem existe mais",
+      "pronunciation": "Оже нем езісте майс",
+      "translation": "Сьогодні його вже не існує",
+      "type": "soloist"
+    },
+    {
+      "original": "Como era ruim ficar",
+      "pronunciation": "Комо ера руім фікар",
+      "translation": "Як погано було бути",
+      "type": "soloist"
+    },
+    {
+      "original": "Na mira de um capataz",
+      "pronunciation": "На міра де ум капатаз",
+      "translation": "Під прицілом наглядача",
+      "type": "soloist"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "soloist"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "chorus"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "soloist"
+    },
+    {
+      "original": "Moendo cana e socando pilão",
+      "pronunciation": "Моендо кана е сокандо пілао",
+      "translation": "Перемелюючи очерет і товчучи товкачем",
+      "type": "chorus"
+    }
+  ]
+}
