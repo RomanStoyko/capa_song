@@ -1,0 +1,147 @@
+{
+  "id": "minha_varanda_cm_monkey",
+  "title": "Minha Varanda",
+  "artist": "C. Mestre Monkey (Contramestre Monkey)",
+  "coverImage": "assets/images/capoeira.jpg",
+  "youtubeId": "QWl_Kg03eC0",
+  "lines": [
+    {
+      "original": "Aqui é minha casa",
+      "pronunciation": "Акі е міня каза",
+      "translation": "Тут мій дім,",
+      "type": "soloist"
+    },
+    {
+      "original": "Minha varanda",
+      "pronunciation": "Міня варанда",
+      "translation": "Моя веранда,",
+      "type": "soloist"
+    },
+    {
+      "original": "Meu dendê",
+      "pronunciation": "Меу денде",
+      "translation": "Моя олія денде.",
+      "type": "soloist"
+    },
+    {
+      "original": "Aqui é minha casa",
+      "pronunciation": "Акі е міня каза",
+      "translation": "Тут мій дім,",
+      "type": "chorus"
+    },
+    {
+      "original": "Minha varanda",
+      "pronunciation": "Міня варанда",
+      "translation": "Моя веранда,",
+      "type": "chorus"
+    },
+    {
+      "original": "Meu dendê",
+      "pronunciation": "Меу денде",
+      "translation": "Моя олія денде.",
+      "type": "chorus"
+    },
+    {
+      "original": "Meu chapéu de palha",
+      "pronunciation": "Меу шапеу де паля",
+      "translation": "Мій солом'яний капелюх,",
+      "type": "soloist"
+    },
+    {
+      "original": "Minha massapê",
+      "pronunciation": "Міня массапе",
+      "translation": "Мій масапе (глинистий ґрунт Баїї, символ важкої роботи).",
+      "type": "soloist"
+    },
+    {
+      "original": "Meu chapéu de palha",
+      "pronunciation": "Меу шапеу де паля",
+      "translation": "Мій солом'яний капелюх,",
+      "type": "chorus"
+    },
+    {
+      "original": "Minha massapê",
+      "pronunciation": "Міня массапе",
+      "translation": "Мій масапе.",
+      "type": "chorus"
+    },
+    {
+      "original": "Cada um tem sua história",
+      "pronunciation": "Када ум тем суа історіа",
+      "translation": "У кожного своя історія,",
+      "type": "soloist"
+    },
+    {
+      "original": "É bom respeitar",
+      "pronunciation": "Е бом решпейтар",
+      "translation": "Її варто поважати.",
+      "type": "soloist"
+    },
+    {
+      "original": "Para conquistar minha varanda",
+      "pronunciation": "Пара конкіштар міня варанда",
+      "translation": "Щоб завоювати мою веранду,",
+      "type": "soloist"
+    },
+    {
+      "original": "Não foi fácil camará",
+      "pronunciation": "Нау фой фасіл камара",
+      "translation": "Було нелегко, товаришу (camará).",
+      "type": "soloist"
+    },
+    {
+      "original": "Aqui é minha casa, minha varanda, meu dendê",
+      "pronunciation": "Акі е міня каза, міня варанда, меу денде",
+      "translation": "Тут мій дім, моя веранда, моя олія денде.",
+      "type": "chorus"
+    },
+    {
+      "original": "Meu chapéu de palha, minha massapê",
+      "pronunciation": "Меу шапеу де паля, міня массапе",
+      "translation": "Мій солом'яний капелюх, мій масапе.",
+      "type": "chorus"
+    },
+    {
+      "original": "Se não sabe a minha história",
+      "pronunciation": "Се нау сабе а міня історіа",
+      "translation": "Якщо ти не знаєш моєї історії,",
+      "type": "soloist"
+    },
+    {
+      "original": "Entre aqui vou te contar",
+      "pronunciation": "Ентре акі воу те контар",
+      "translation": "Заходь, я тобі розповім.",
+      "type": "soloist"
+    },
+    {
+      "original": "Tem Berimbau, Pandeiro e Atabaquê para tocar",
+      "pronunciation": "Тем Берімбау, Пандейру е Атабаке пара токар",
+      "translation": "Є Берімбау, Пандейру й Атабаке, щоб грати.",
+      "type": "soloist"
+    },
+    {
+      "original": "Na parede quadro, de Carybé mandei pintar",
+      "pronunciation": "На пареде куадро, де Карібе мандей пінтар",
+      "translation": "На стіні картину Карібе (відомий художник Баїї) я замовив намалювати.",
+      "type": "soloist"
+    },
+    {
+      "original": "Minha varanda é de frente pro mar",
+      "pronunciation": "Міня варанда е де френте про мар",
+      "translation": "Моя веранда — з видом на море.",
+      "type": "soloist"
+    },
+    {
+      "original": "Aqui é minha casa, minha varanda, meu dendê",
+      "pronunciation": "Акі е міня каза, міня варанда, меу денде",
+      "translation": "Тут мій дім, моя веранда, моя олія денде.",
+      "type": "chorus"
+    },
+    {
+      "original": "Meu chapéu de palha, minha massapê",
+      "pronunciation": "Меу шапеу де паля, міня массапе",
+      "translation": "Мій солом'яний капелюх, мій масапе.",
+      "type": "chorus"
+    }
+  ]
+}

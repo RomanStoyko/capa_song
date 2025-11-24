@@ -1,0 +1,315 @@
+{
+  "id": "dandara",
+  "title": "Dandara (Story Version)",
+  "artist": "Traditional Capoeira (Mestre Canelão)",
+  "coverImage": "assets/images/capoeira.jpg",
+  "youtubeId": "g1BPBObRz5w",
+  "lines": [
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "soloist"
+    },
+    {
+      "original": "Ê Dandara Êêêêê",
+      "pronunciation": "Е Дандара Еееее",
+      "translation": "Ей, Дандара Еееее",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "soloist"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "soloist"
+    },
+    {
+      "original": "Ê Dandara Êêêêê",
+      "pronunciation": "Е Дандара Еееее",
+      "translation": "Ей, Дандара Еееее",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "soloist"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Dandara foi mulher guerreira",
+      "pronunciation": "Дандара фой мульєр геррейра",
+      "translation": "Дандара була жінкою-воїном,",
+      "type": "soloist"
+    },
+    {
+      "original": "No quilombo se refugiou",
+      "pronunciation": "Но кіломбу се рефужіоу",
+      "translation": "У кіломбу вона сховалася (знайшла притулок),",
+      "type": "soloist"
+    },
+    {
+      "original": "Conheceu Zumbi dos Palmares",
+      "pronunciation": "Конессеу Зумбі душ Палмареш",
+      "translation": "Зустріла Зумбі дос Палмареса,",
+      "type": "soloist"
+    },
+    {
+      "original": "E logo se apaixonou",
+      "pronunciation": "Е логу се апайшоноу",
+      "translation": "І одразу ж закохалася.",
+      "type": "soloist"
+    },
+    {
+      "original": "Dandara",
+      "pronunciation": "Дандара",
+      "translation": "Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Com Zumbi ela teve três filhos",
+      "pronunciation": "Ком Зумбі ела теве треш фільюш",
+      "translation": "З Зумбі вона мала трьох дітей,",
+      "type": "soloist"
+    },
+    {
+      "original": "No quilombo ela foi a rainha",
+      "pronunciation": "Но кіломбу ела фой а раіня",
+      "translation": "У кіломбу вона була королевою,",
+      "type": "soloist"
+    },
+    {
+      "original": "Sua história ficou esquecida",
+      "pronunciation": "Суа історіа фікоу ескесіда",
+      "translation": "Її історія залишилася забутою,",
+      "type": "soloist"
+    },
+    {
+      "original": "Por muito tempo e ninguém não sabia",
+      "pronunciation": "Пор муйту темпу е нінгем нау сабія",
+      "translation": "Протягом довгого часу і ніхто не знав.",
+      "type": "soloist"
+    },
+    {
+      "original": "Dandara",
+      "pronunciation": "Дандара",
+      "translation": "Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Domingo Jorge velho",
+      "pronunciation": "Домінгу Жорже велью",
+      "translation": "Домінгу Жорже Велью (один з найманців),",
+      "type": "soloist"
+    },
+    {
+      "original": "Junto com seu bando",
+      "pronunciation": "Жунту ком сеу банду",
+      "translation": "Разом зі своєю бандою,",
+      "type": "soloist"
+    },
+    {
+      "original": "Os mocambos queimou",
+      "pronunciation": "Уш мокамбуш кеймоу",
+      "translation": "Спалив мокамбус (хатини Кіломбу),",
+      "type": "soloist"
+    },
+    {
+      "original": "Atacando o povo quilombola",
+      "pronunciation": "Атаканду у пово кіломбола",
+      "translation": "Атакуючи народ кіломбола (жителів Кіломбу),",
+      "type": "soloist"
+    },
+    {
+      "original": "Dandara lutando ele a capturou",
+      "pronunciation": "Дандара лутанду еле а каптуроу",
+      "translation": "Дандара боролася, він її захопив.",
+      "type": "soloist"
+    },
+    {
+      "original": "Dandara",
+      "pronunciation": "Дандара",
+      "translation": "Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Mil seiscentos e noventa e cinco",
+      "pronunciation": "Міл сейшсентуш е новента е сінку",
+      "translation": "Тисяча шістсот дев'яносто п'ятий (1695) (правильна дата 1694)",
+      "type": "soloist"
+    },
+    {
+      "original": "Dandara se suicidou",
+      "pronunciation": "Дандара се суїсідоу",
+      "translation": "Дандара наклала на себе руки,",
+      "type": "soloist"
+    },
+    {
+      "original": "Se jogando de uma pedreira",
+      "pronunciation": "Се жоганду де ума педрейра",
+      "translation": "Кинувшись зі скелі (з кар'єру),",
+      "type": "soloist"
+    },
+    {
+      "original": "Mas a escravidão ela não se entregou",
+      "pronunciation": "Маш а ескравідау ела нау се ентрегоу",
+      "translation": "Але рабству вона не здалася.",
+      "type": "soloist"
+    },
+    {
+      "original": "Dandara",
+      "pronunciation": "Дандара",
+      "translation": "Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Mil seiscentos e noventa e cinco",
+      "pronunciation": "Міл сейшсентуш е новента е сінку",
+      "translation": "Тисяча шістсот дев'яносто п'ятий (1695),",
+      "type": "soloist"
+    },
+    {
+      "original": "Foi a vez do grande rei Zumbi",
+      "pronunciation": "Фой а вейш ду гранде рей Зумбі",
+      "translation": "Настала черга великого короля Зумбі.",
+      "type": "soloist"
+    },
+    {
+      "original": "Depois de morto em um paraíso encontrou com Dandara",
+      "pronunciation": "Депойш де морту ем ум параізу енконтроу ком Дандара",
+      "translation": "Після смерті в раю він зустрівся з Дандарою,",
+      "type": "soloist"
+    },
+    {
+      "original": "Eles foram felizes",
+      "pronunciation": "Елеш форам фелізеш",
+      "translation": "Вони були щасливі.",
+      "type": "soloist"
+    },
+    {
+      "original": "Dandara",
+      "pronunciation": "Дандара",
+      "translation": "Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara",
+      "pronunciation": "Е Дандара",
+      "translation": "Ей, Дандара",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    },
+    {
+      "original": "Ê Dandara ê",
+      "pronunciation": "Е Дандара е",
+      "translation": "Ей, Дандара е",
+      "type": "chorus"
+    }
+  ]
+}

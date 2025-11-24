@@ -1,0 +1,81 @@
+{
+  "id": "la_em_casa_tem_uma_varanda",
+  "title": "Lá Em Casa Tem Uma Varanda",
+  "artist": "Traditional Capoeira",
+  "coverImage": "assets/images/capoeira.jpg",
+  "youtubeId": "6mJ8mS2v8gM",
+  "lines": [
+    {
+      "original": "Lá em casa tem uma varanda",
+      "pronunciation": "Ла ем каза тем ума варанда",
+      "translation": "Там у домі є веранда,",
+      "type": "soloist"
+    },
+    {
+      "original": "E de lá eu vejo Capoeira",
+      "pronunciation": "Е де ла еу вежу Капуейра",
+      "translation": "І звідти я бачу Капоейру.",
+      "type": "soloist"
+    },
+    {
+      "original": "Lá em casa tem uma varanda",
+      "pronunciation": "Ла ем каза тем ума варанда",
+      "translation": "Там у домі є веранда,",
+      "type": "chorus"
+    },
+    {
+      "original": "E de lá eu vejo Capoeira",
+      "pronunciation": "Е де ла еу вежу Капуейра",
+      "translation": "І звідти я бачу Капоейру.",
+      "type": "chorus"
+    },
+    {
+      "original": "Olha a Ginga da Capoeira",
+      "pronunciation": "Оля а Жінга да Капуейра",
+      "translation": "Подивись на Жінгу (основний рух) Капоейри,",
+      "type": "soloist"
+    },
+    {
+      "original": "E de lá eu vejo Capoeira",
+      "pronunciation": "Е де ла еу вежу Капуейра",
+      "translation": "І звідти я бачу Капоейру.",
+      "type": "chorus"
+    },
+    {
+      "original": "Joga bonito que eu quero ver",
+      "pronunciation": "Жога боніту ке еу керо вер",
+      "translation": "Грай гарно, бо я хочу бачити,",
+      "type": "soloist"
+    },
+    {
+      "original": "E de lá eu vejo Capoeira",
+      "pronunciation": "Е де ла еу вежу Капуейра",
+      "translation": "І звідти я бачу Капоейру.",
+      "type": "chorus"
+    },
+    {
+      "original": "Eu vejo berimbau de longe",
+      "pronunciation": "Еу вежу берімбау де лонже",
+      "translation": "Я бачу берімбау здалеку,",
+      "type": "soloist"
+    },
+    {
+      "original": "E de lá eu vejo Capoeira",
+      "pronunciation": "Е де ла еу вежу Капуейра",
+      "translation": "І звідти я бачу Капоейру.",
+      "type": "chorus"
+    },
+    {
+      "original": "Olha Mestre Bimba no pé",
+      "pronunciation": "Оля Мештре Бімба но пе",
+      "translation": "Подивись, Майстер Бімба на ногах,",
+      "type": "soloist"
+    },
+    {
+      "original": "E de lá eu vejo Capoeira",
+      "pronunciation": "Е де ла еу вежу Капуейра",
+      "translation": "І звідти я бачу Капоейру.",
+      "type": "chorus"
+    }
+  ]
+}

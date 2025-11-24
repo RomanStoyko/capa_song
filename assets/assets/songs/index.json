@@ -40,5 +40,33 @@
     "artist": "Traditional Capoeira",
     "coverImage": "assets/images/capoeira.jpg",
     "youtubeId": "x_SEBqTtMM"
+  },
+  {
+    "id": "na_minha_casa_nao_tem_porta_nem_janela",
+    "title": "Na Minha Casa Não Tem Porta, Nem Janela",
+    "artist": "Traditional Capoeira",
+    "coverImage": "assets/images/capoeira.jpg",
+    "youtubeId": "z3Yx9bF_t-Y"
+  },
+  {
+    "id": "la_em_casa_tem_uma_varanda",
+    "title": "Lá Em Casa Tem Uma Varanda",
+    "artist": "Traditional Capoeira",
+    "coverImage": "assets/images/capoeira.jpg",
+    "youtubeId": "6mJ8mS2v8gM"
+  },
+  {
+    "id": "minha_varanda_cm_monkey",
+    "title": "Minha Varanda",
+    "artist": "C. Mestre Monkey (Contramestre Monkey)",
+    "coverImage": "assets/images/capoeira.jpg",
+    "youtubeId": "QWl_Kg03eC0"
+  },
+  {
+    "id": "dandara",
+    "title": "Dandara",
+    "artist": "Traditional Capoeira (Mestre Canelão)",
+    "coverImage": "assets/images/capoeira.jpg",
+    "youtubeId": "g1BPBObRz5w"
   }
 ]

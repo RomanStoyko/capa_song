@@ -1,0 +1,81 @@
+{
+  "id": "na_minha_casa_nao_tem_porta_nem_janela",
+  "title": "Na Minha Casa Não Tem Porta, Nem Janela",
+  "artist": "Traditional Capoeira",
+  "coverImage": "assets/images/capoeira.jpg",
+  "youtubeId": "z3Yx9bF_t-Y",
+  "lines": [
+    {
+      "original": "Na minha casa não tem porta, nem janela",
+      "pronunciation": "На міня каза нау тем порта, нем жанела",
+      "translation": "У моєму домі немає ні дверей, ні вікна,",
+      "type": "soloist"
+    },
+    {
+      "original": "É pra Capoeira entrar",
+      "pronunciation": "Е пра Капуейра ентрар",
+      "translation": "Це щоб Капоейра могла увійти.",
+      "type": "soloist"
+    },
+    {
+      "original": "Na minha casa não tem porta, nem janela",
+      "pronunciation": "На міня каза нау тем порта, нем жанела",
+      "translation": "У моєму домі немає ні дверей, ні вікна,",
+      "type": "chorus"
+    },
+    {
+      "original": "É pra Capoeira entrar",
+      "pronunciation": "Е пра Капуейра ентрар",
+      "translation": "Це щоб Капоейра могла увійти.",
+      "type": "chorus"
+    },
+    {
+      "original": "Eu entrei na sua casa",
+      "pronunciation": "Еу ентрей на суа каза",
+      "translation": "Я зайшов до твого дому,",
+      "type": "soloist"
+    },
+    {
+      "original": "É pra Capoeira entrar",
+      "pronunciation": "Е пра Капуейра ентрар",
+      "translation": "Це щоб Капоейра могла увійти.",
+      "type": "chorus"
+    },
+    {
+      "original": "Não pedi licença a ninguém",
+      "pronunciation": "Нау педі лісенса а нінгем",
+      "translation": "Я ні в кого не питав дозволу,",
+      "type": "soloist"
+    },
+    {
+      "original": "É pra Capoeira entrar",
+      "pronunciation": "Е пра Капуейра ентрар",
+      "translation": "Це щоб Капоейра могла увійти.",
+      "type": "chorus"
+    },
+    {
+      "original": "Pra Capoeira que vem de Angola",
+      "pronunciation": "Пра Капуейра ке вем де Ангола",
+      "translation": "Для Капоейри, що прийшла з Анголи,",
+      "type": "soloist"
+    },
+    {
+      "original": "É pra Capoeira entrar",
+      "pronunciation": "Е пра Капуейра ентрар",
+      "translation": "Це щоб Капоейра могла увійти.",
+      "type": "chorus"
+    },
+    {
+      "original": "Pra Capoeira que vem de lá",
+      "pronunciation": "Пра Капуейра ке вем де ла",
+      "translation": "Для Капоейри, що прийшла звідти,",
+      "type": "soloist"
+    },
+    {
+      "original": "É pra Capoeira entrar",
+      "pronunciation": "Е пра Капуейра ентрар",
+      "translation": "Це щоб Капоейра могла увійти.",
+      "type": "chorus"
+    }
+  ]
+}
